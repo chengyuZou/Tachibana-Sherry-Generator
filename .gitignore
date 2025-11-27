@@ -1,2 +1,16 @@
+# Virtual environments
+.venv/
+
+# Python
 __pycache__/
-tachibana_sherry_generator.egg-info
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
